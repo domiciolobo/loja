@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Frutaon": {
+      "applicationId": "KlrJ9shixMZVULSU05PzoQXKR6Okryl4u78XMWLj"
+    },
+    "_default": {
+      "link": "Frutaon"
+    }
+  }
+}
